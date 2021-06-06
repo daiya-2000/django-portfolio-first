@@ -7,6 +7,7 @@ click==8.0.1
 Django==3.2.4
 django-widget-tweaks==1.4.8
 django-widgets-improved==1.5.0
+gunicorn==20.1.0
 idna==2.10
 mypy-extensions==0.4.3
 pathspec==0.8.1
@@ -17,3 +18,4 @@ requests==2.25.1
 sqlparse==0.4.1
 toml==0.10.2
 urllib3==1.26.5
+whitenoise==5.2.0
